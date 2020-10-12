@@ -10,7 +10,10 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="23511fee-8521-4bc0-ae07-75862d413b64" name="Default Changelist" comment="Second commit" />
+    <list default="true" id="23511fee-8521-4bc0-ae07-75862d413b64" name="Default Changelist" comment="Second commit">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -58,6 +61,7 @@
       <updated>1601927063159</updated>
       <workItem from="1601927064506" duration="5073000" />
       <workItem from="1602060452666" duration="3048000" />
+      <workItem from="1602482818884" duration="3006000" />
     </task>
     <task id="LOCAL-00001" summary="Initialize commit">
       <created>1601927425438</created>

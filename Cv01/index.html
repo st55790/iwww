@@ -3,10 +3,13 @@
 <head>
     <meta charset="UTF-8">
     <title>Curriculum vitae</title>
+    <link rel="stylesheet" href="styles.css">
 </head>
 <body>
-    <h1>STÁLE NENÍ HOTOVO</h1>
-    <h1 style="text-align:center">Prudký Tomáš<img align="absmiddle" src="avatar.png" alt="avatar" ></h1>
+    <div class="header">
+        <img src="avatar.png" alt="logo" class="center" />
+        <h1>Prudký Tomáš</h1>
+    </div>
     <p style="text-align:center">Nová 196, 140 00 Praha | 606 060 909 | prudky.tomas@gmail.com</p>
     <h2 p style="border-bottom: 1px solid black">VZDĚLÁNÍ</h2>
     <ul>
@@ -20,17 +23,42 @@
         <li>nástup 2018 Tester v MixedApps.sro</li>
     </ul>
     <h2 p style="border-bottom: 1px solid black">ZNALOSTI</h2>
-    <ul>
-        <li>Programování</li>
-        <li>Síte</li>
-        <li>Grafika</li>
-        <li>Weby</li>
-    </ul>
+    <table style="width: 100%">
+        <tr>
+            <th>Programovací jazyky</th>
+            <th>Ostatní technologie</th>
+            <th>Jazyky</th>
+            <th>Ostatní dovednosti</th>
+        </tr>
+        <tr>
+            <td>Java</td>
+            <td>Základy sítí</td>
+            <td>Angličtina</td>
+            <td>Řidičský průkaz</td>
+        </tr>
+        <tr>
+            <td>C</td>
+            <td>Adobe</td>
+            <td>Základy němčiny</td>
+            <td>Stolařská výroba</td>
+        </tr>
+        <tr>
+            <td>C++</td>
+            <td>Znalost databází</td>
+            <td>Základy španělštiny</td>
+        </tr>
+        <tr>
+            <td>Python</td>
+            <td>Správa OS</td>
+        </tr>
+    </table>
+
     <h2 p style="border-bottom: 1px solid black">ZÁLÍBY</h2>
     <ul>
-        <li>Sport</li>
-        <li>Cestování</li>
-        <li>Čtení</li>
+        <li>Rád sportuji, aktivně hraji fotbal. Ve volném čase jezdím na kole, hraji tenis a jiné sporty. Rád také
+            chodím plavat.</li>
+        <li>Každý rok se snažím navšítvít alespoň jednu novou zemi, kde se snažím poznat její kulturu.</li>
+        <li>Když to jde a není zrovna co k práci, rád si přečtu naučnou knihu.</li>
     </ul>
 </body>
 </html>
