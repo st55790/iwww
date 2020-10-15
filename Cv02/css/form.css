@@ -1,0 +1,26 @@
+input, select, textarea{
+    width: 100%;
+    padding: 10px;
+    box-sizing: border-box;
+    border: 1px solid black;
+}
+
+label{
+    width: 100px;
+    display: block;
+}
+
+.row{
+    display: flex;
+    justify-content: space-between;
+    margin: 10px;
+}
+
+textarea{
+    resize: none;
+    height: 200px;
+}
+
+.centerContentWrapper{
+    margin-top: 50px;
+}
