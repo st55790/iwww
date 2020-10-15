@@ -1,0 +1,7 @@
+.galleryContent{
+    height: 100%;
+}
+
+.galleryContent > img{
+    height: 100%;
+}
