@@ -1,7 +1,18 @@
 .galleryContent{
-    height: 100%;
+    width: 300px;
+    margin: 10px;
+    border: 1px dotted lightslategray;
 }
 
 .galleryContent > img{
-    height: 100%;
+    width: 300px;
+}
+
+.galleryPostList{
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    flex-wrap: wrap;
+    margin-left: 15%;
+    margin-right: 15%;
 }

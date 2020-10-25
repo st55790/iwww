@@ -1,0 +1,17 @@
+@media (max-width: 650px) {
+
+    .gallery img{
+        width: 100%;
+    }
+
+}
+<!-- Tady se to jebe kvuli více media-->
+@media (max-width: 1695px) {
+
+    .gallery img{
+
+        width: 40%;
+    }
+
+}
+

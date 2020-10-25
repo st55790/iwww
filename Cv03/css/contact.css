@@ -1,0 +1,60 @@
+body{
+    margin:0;
+    padding: 0;
+    text-align: center;
+}
+
+.contactTitle{
+    margin-top: 0px;
+    color: black;
+
+}
+
+.contactTitle h1{
+    font-size: 50px;
+    line-height: 10px;
+}
+
+.contactTitle h2{
+    font-size: 30px;
+}
+
+form{
+    margin-top: 50px;
+
+}
+.formControl{
+
+    width: 600px;
+    background: transparent;
+    border: none;
+    outline: none;
+    border-bottom: 1px solid gray;
+    color: black;
+    font-size: 24px;
+    margin-bottom: 20px
+}
+
+input{
+    height: 45px;
+}
+
+textarea{
+    resize: none;
+}
+
+form .submit{
+    background: #CFA687;
+    color: black;
+    font-size: 20px;
+    font-weight: bold;
+    letter-spacing: 2px;
+    height: 50px;
+    width: 600px;
+    margin-top: 20px;
+}
+
+form .submit:hover {
+    background: #C4A687;
+    cursor: pointer;
+}

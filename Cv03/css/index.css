@@ -1,0 +1,79 @@
+body{
+    margin: 0;
+}
+#menu{
+    background-color: whitesmoke;
+    display: flex;
+    justify-content: space-between;
+    padding: 0.5%;
+    align-items: center;
+}
+
+#hero{
+    text-align: center;
+    background-image: url("../img/backgroudTop.png");
+    height: 500px;
+    background-position: bottom ;
+    background-repeat: no-repeat;
+    background-size: cover;
+    padding-bottom: 280px;
+}
+
+#aboutus{
+    text-align: center;
+    padding: 100px;
+}
+
+#logoDown{
+    margin-top: 100px;
+    display: flex;
+    justify-content: space-between;
+}
+
+.navLogo{
+    width: 60px;
+    padding-left: 10px;
+}
+
+.pageHeading{
+    font-size: 100px;
+    padding-top: 200px;
+    margin: 0;
+    color:white;
+    text-shadow: 5px 5px 10px black;
+}
+
+.clanek{
+    padding-left: 15%;
+    padding-right: 15%;
+}
+
+footer{
+    margin: 0;
+    height: 500px;
+    background-position: top;
+    background-repeat: no-repeat;
+    background-size: cover;
+    text-align: center;
+    background-image: url("../img/backgroundBot.jpg");
+    justify-content: center;
+    display: flex;
+    color: white;
+    align-items: center;
+}
+
+.footerLogos{
+    width: 60px;
+    padding-left: 40px;
+    padding-right: 40px;
+    padding-top: 90px;
+
+}
+
+a{
+    color:black;
+    font-size: 30px;
+    margin-right: 20px;
+    text-decoration: none;
+}
+

@@ -1,0 +1,10 @@
+@media (max-width: 600px) {
+    #aboutus{
+        padding: 10px;
+    }
+
+    .clanek{
+        padding-left: 5%;
+        padding-right: 5%;
+    }
+}
