@@ -5,13 +5,4 @@
     }
 
 }
-<!-- Tady se to jebe kvuli více media-->
-@media (max-width: 1695px) {
-
-    .gallery img{
-
-        width: 40%;
-    }
-
-}
 

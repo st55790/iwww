@@ -20,20 +20,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="b7b2425d-e139-4b13-a46c-e6869b7bf0cd" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/contact.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/css/contact.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/css/gallery.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/css/index.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/css/menu.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/css/responsiveContact.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/css/responsiveGallery.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/css/responsiveIndex.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gallery.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Cv02/aboutus.html" beforeDir="false" afterPath="$PROJECT_DIR$/../Cv02/aboutus.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Cv02/css/gallery.css" beforeDir="false" afterPath="$PROJECT_DIR$/../Cv02/css/gallery.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Cv02/css/index.css" beforeDir="false" afterPath="$PROJECT_DIR$/../Cv02/css/index.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Cv02/gallery.html" beforeDir="false" afterPath="$PROJECT_DIR$/../Cv02/gallery.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/css/responsiveGallery.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/responsiveGallery.css" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -82,7 +70,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1603393569366</updated>
-      <workItem from="1603393570425" duration="34588000" />
+      <workItem from="1603393570425" duration="35801000" />
     </task>
     <servers />
   </component>
