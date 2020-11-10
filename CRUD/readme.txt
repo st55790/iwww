@@ -1,0 +1,2 @@
+Spíš jsem si s tím hrál, než to nìjak zkoušel optimalizovat, takže tam možná nìco nebude. Obèas jsem nìco zkusil jinak a nechal tam vlastnì nìjakou poslední úpravu. 
+Poèítám s tím, že na semestrálce to už bude všechno pøehlednìjší, èistìjší a snad lepší 
